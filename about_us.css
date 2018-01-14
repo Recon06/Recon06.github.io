@@ -1,0 +1,125 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+        height: 100%;
+    }
+    body {
+        padding-left: 27%;
+        width: 800px;
+        height: 100%;
+        background-color: #B20E00;
+    }
+
+    header {
+        background-color: #ffffff;
+        padding: 0px;
+        border: 3px solid #7F2D26;
+        font-size: 20px;
+        display: block;
+        text-align: center;
+        width: 615px;
+    }
+    nav {
+        float: left;
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    nav ul {
+        padding-left: 200px;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        border: 3px solid #7F2D26;
+        background-color: #ffffff;
+        margin: 3px;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    h2 {
+        text-align: center;
+    }
+    h3 {
+        text-align: center;
+    }
+    section1 article img {
+      width: 468px;
+      height: 313px;
+    }
+    section1 article {
+        background-color: #ffffff;
+        border: 3px solid #7F2D26;
+        margin-top: 90px;
+        padding: 10px;
+        width: 595px;
+        text-align: center;
+    }
+    section {
+        width: 615px;
+        display: inline-block;
+        float: left;
+        border: 3px solid #7F2D26;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        background-color: #ffffff;
+        text-align: center;
+
+    }
+    section article1 img {
+        height: 100px;
+        width: 100px;
+    }
+    section article2 img {
+        height: 100px;
+        width: 100px;
+    }
+    section article3 img {
+        height: 100px;
+        width: 100px;
+    }
+    section article4 img {
+        height: 100px;
+        width: 100px;
+    }
+    section article1 {
+        display: inline-block;
+        text-align: center;
+    }
+    section article2 {
+        display: inline-block;
+        text-align: center;
+    }
+    section article3 {
+        display: inline-block;
+        text-align: center;
+    }
+    section article4 {
+        display: inline-block;
+        text-align: center;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
